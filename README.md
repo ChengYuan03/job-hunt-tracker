@@ -1,4 +1,3 @@
-# job-hunt-tracker
 # Job Hunt Tracker｜求职申请管理看板
 
 > 一个面向大学生 / 应届生求职场景的申请管理网页原型。  
